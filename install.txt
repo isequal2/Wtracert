@@ -1,0 +1,12 @@
+Installation of Traceroute
+
+Install Traceroute by running the following commands:
+
+sed -i -e 's/-o bin/-o root/' Makefile.in &&
+./configure --prefix=/usr &&
+make
+Now, as the root user:
+
+make install &&
+make install-man
+
