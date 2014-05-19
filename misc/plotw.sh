@@ -1,0 +1,13 @@
+#!/bin/bash
+/usr/bin/gnuplot <<__EOF
+set xrange [0:30]
+set yrange [0:500]
+set term png
+set output "tracew.png"
+set xlabel "Website"
+set ylabel "time(in sec)"
+set grid
+set boxwidth 0.95 relative
+set style fill transparent solid 0.5
+set border lc rgb "red"
+plot "outputw.dat" u 1:2 w boxes lc rgb"green" notitle

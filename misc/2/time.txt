@@ -1,0 +1,33 @@
+Sl. No.		Website		     Traceroute	    Wtracert
+	
+1	     www.nitk.ac.in		10		11
+2	     www.flipkart.com		432		101
+3	     www.thehindu.in		401		101
+4	     www.google.com		310		70
+5	     www.gmail.com		155		63
+6	     www.yahoo.com		337		189
+7	     www.beachsideblues.com	317		107
+8	     www.linkedin.com		360		115
+9	     www.facebook.com		131		67
+10	     www.twitter.com		168		57
+11	     www.quora.com		424		104
+12	     www.coursera.org		395		146
+13	     www.xkcd.com		166		57
+14	     cricket.yahoo.com		397		55
+15	     www.stackoverflow.com	181		59
+16	     www.youtube.com		170		77
+17	     www.indiatimes.com		244		111
+18	     www.snapdeal.com		149		89
+19	     www.abstrusegoose.com	220		106
+20	     www.github.com		277		130
+21	     www.technewsdaily.com	337		182
+22	     www.udacity.com		237		147
+23	     www.edx.org		367		140
+24	     www.wikipedia.org		276		82
+25	     www.flickr.com		319		91
+26	     www.netflix.com		353		119
+27	     www.duckduckgo.com		381		97
+28	     www.bing.com		352		95
+29	     www.uctv.tv		269		83
+30	     instagram.com		372		154
+
